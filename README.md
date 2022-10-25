@@ -28,17 +28,17 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <!-- End of Statcounter Code -->
   
 
-<meta name="twitter:title" content="Dementia Prevalence and the Community Explorer">
-<meta name="twitter:description" content="A new look at the prevalence of dementia across the US counties using the Community Explorer profiles.">
-<meta name="twitter:image" content="https://claudelopez.com/wp-content/uploads/2022/10/CE-and-Dementia.png">
+<meta name="twitter:title" content="Digital Divide and the Community Explorer">
+<meta name="twitter:description" content="A new look at the digital divid across the US counties using the Community Explorer profiles.">
+<meta name="twitter:image" content="https://claudelopez.com/wp-content/uploads/2022/10/CE-and-Internet-adoption.png">
 <meta name="twitter:card" content="summary_large_image">
 
 <meta property="og:title" content="Community Explorer">
-<meta property="og:description" content="A new look at the prevalence of dementia across the US counties using the Community Explorer profiles.">
-<meta property="og:image" content="https://claudelopez.com/wp-content/uploads/2022/10/CE-and-Dementia.png">
-<meta property="og:image:url" content="https://claudelopez.com/wp-content/uploads/2022/10/CE-and-Dementia.png">
-<meta property="og:image:secure_url" content="https://claudelopez.com/wp-content/uploads/2022/10/CE-and-Dementia.png">
-<meta property="og:url" content="https://miresearch.github.io/dementia/">
+<meta property="og:description" content="A new look at the digital divide across the US counties using the Community Explorer profiles.">
+<meta property="og:image" content="https://claudelopez.com/wp-content/uploads/2022/10/CE-and-Internet-adoption.png">
+<meta property="og:image:url" content="https://claudelopez.com/wp-content/uploads/2022/10/CE-and-Internet-adoption.png">
+<meta property="og:image:secure_url" content="https://claudelopez.com/wp-content/uploads/2022/10/CE-and-Internet-adoption.png">
+<meta property="og:url" content="https://miresearch.github.io/broadband/">
 
 </head>
 
@@ -46,7 +46,9 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 
 
 <br>   
-<iframe src="https://public.tableau.com/views/Dementia_Medicare_Community_Explorer_221021/Homepage?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe>
+<iframe src="https://public.tableau.com/views/Tableau-Broadband/Map?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe>
+  
+
 
 <br>
 
