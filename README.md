@@ -9,21 +9,21 @@
   gtag('config', 'UA-166686264-2');
 </script>
 
-  <!-- Default Statcounter code for CE/dementia
-https://miresearch.github.io/dementia/ -->
+  <!-- Default Statcounter code for CE and the digital divide
+https://miresearch.github.io/Broadband/ -->
 <script type="text/javascript">
-var sc_project=12810098; 
+var sc_project=12810103; 
 var sc_invisible=1; 
-var sc_security="038a1f38"; 
+var sc_security="f7097ac0"; 
 </script>
 <script type="text/javascript"
 src="https://www.statcounter.com/counter/counter.js"
 async></script>
-<noscript><div class="statcounter"><a title="Web Analytics"
-href="https://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="https://c.statcounter.com/12810098/0/038a1f38/1/"
-alt="Web Analytics"
+<noscript><div class="statcounter"><a title="Web Analytics
+Made Easy - Statcounter" href="https://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/12810103/0/f7097ac0/1/"
+alt="Web Analytics Made Easy - Statcounter"
 referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <!-- End of Statcounter Code -->
   
